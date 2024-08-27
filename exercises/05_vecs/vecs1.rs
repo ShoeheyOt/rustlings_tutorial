@@ -13,8 +13,11 @@ fn main() {
 
     let a = [10,20,30,40];
     let v = a;
+    let s = [1,2,3,4];
     println!("{:?}",a);
     println!("{:?}",v);
+    println!("{:?}",s);
+
 }
 
 #[cfg(test)]
